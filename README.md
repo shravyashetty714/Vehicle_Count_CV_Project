@@ -13,8 +13,8 @@ This project implements a simple vehicle counting system using video processing 
 
 ## 📂 Files
 
-- `vehicle_count.py`: Main Python script for vehicle detection and counting.
-- `Video.mp4`: Input video file to be analyzed. (You must provide your own video.)
+- `Detect_vehicle.py`: Main Python script for vehicle detection and counting.
+- `Video1.mp4`: Input video file to be analyzed. (You must provide your own video.)
 - `README.md`: Project overview and setup instructions.
 
 ## 🔧 Requirements
