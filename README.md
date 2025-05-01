@@ -23,3 +23,7 @@ Make sure the following Python libraries are installed:
 
 ```bash
 pip install opencv-python numpy
+
+
+
+
