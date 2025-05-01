@@ -16,7 +16,7 @@ def get_centrolid(x, y, w, h):
    cy = y + y1
    return cx, cy
 
-cap = cv2.VideoCapture('Video.mp4')
+cap = cv2.VideoCapture('Video1.mp4')
 
 cap.set(3, 1920)
 cap.set(4, 1080)
